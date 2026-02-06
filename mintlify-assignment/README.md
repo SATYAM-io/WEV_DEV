@@ -5,6 +5,10 @@ It is built using pure HTML and CSS to practice modern UI layout, styling, and c
 
 ---
 
+![PRIVEW](screenshot\Screenshot-mintlify.png)
+
+---
+
 ## 🚀 Tech Stack
 
 - **HTML5** – Structure and semantic layout  

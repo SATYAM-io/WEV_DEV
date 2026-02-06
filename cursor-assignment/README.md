@@ -2,7 +2,7 @@
 
 A pixel-perfect recreation of the [Cursor.com](https://cursor.com) landing page, built entirely with raw **HTML & CSS**. This project focuses on structural accuracy, semantic markup, and modern CSS layout techniques (Flexbox & Grid) without relying on any frameworks like Tailwind or Bootstrap.
 
-
+![PRIVEW](assets/screenshots/screenshot.png)
 
 ---
 
@@ -54,3 +54,6 @@ I used CSS Variables (`:root`) to maintain consistency:
   - `letter-spacing: -0.03em` to mimic the premium typography style.
 
 ---
+
+![Landing Page Preview] (assets/screenshots/screenshot.png.png)
+
