@@ -4,7 +4,8 @@ This project is a static landing page clone inspired by the Mintlify website.
 It is built using pure HTML and CSS to practice modern UI layout, styling, and component-based page structure.
 
 ---
-![PRIVEW](mainscreenshot\image.png)
+![Preview](mainscreenshot/image.png)
+
 
 ---
 
